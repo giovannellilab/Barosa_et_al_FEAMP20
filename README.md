@@ -15,7 +15,7 @@ The present repository contains the data and code relative to the Barosa et al. 
 The repository contains the following files:
 
 - *README.md* (this readme file)
-- *Barosa et al 2024 - FEAMP20 16S rRNA analysis.ipynb* A jupyter notebook containing all the code to reproduce the analysis and figures in the manuscript.
+- *Barosa_et_al_2024 _ FEAMP20_16Sanalysis.ipynb* A jupyter notebook containing all the code to reproduce the analysis and figures in the manuscript.
 - Two datasets (csv format), one (*FEAMP20_Environmental_dataset.csv*) containing the environmental data and metadata used to contruct the phyloseq object, and the other    (*FEAMP20_Geochemistry.csv*, contaning the geochemistry data used to plot the figures in the geochemical section of the manuscript.
 - *FEAMP20_16SrRNA_prok_data_raw.Rdata* the R file containing the initial Phyloseq object.
 
