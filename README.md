@@ -12,7 +12,7 @@
 
 The present repository contains the data and code relative to the Barosa et al. 2024 manuscript on the microbiology and geochemistry of the shallow-water hydrothermal vents of the Gulf of Naples, Italy. All the sequences used in this study are available through ENA under project accession PRJEB63479 within the umbrella project COEVOLVE, with acession PRJEB55081.
 
-The repository contains the following files:
+The repository contains the following files (under the directory *Data*):
 
 - *README.md* (this readme file)
 - *Barosa_et_al_2024 _ FEAMP20_16Sanalysis.ipynb* A jupyter notebook containing all the code to reproduce the analysis and figures in the manuscript.
