@@ -19,4 +19,5 @@ The repository contains the following files (under the directory *Data*):
 - Two datasets (csv format), one (*FEAMP20_Environmental_dataset.csv*) containing the environmental data and metadata used to contruct the phyloseq object, and the other    (*FEAMP20_Geochemistry.csv*, contaning the geochemistry data used to plot the figures in the geochemical section of the manuscript.
 - *FEAMP20_16SrRNA_prok_data_raw.Rdata* the R file containing the initial Phyloseq object.
 
+Please cite as:
 
