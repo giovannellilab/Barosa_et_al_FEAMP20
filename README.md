@@ -8,6 +8,7 @@
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http:s//www.donatogiovannelli.com)
 [![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![DOI](https://zenodo.org/badge/838280445.svg)](https://doi.org/10.5281/zenodo.14966492)
 
 
 The present repository contains the data and code relative to the Barosa et al. 2024 manuscript on the microbiology and geochemistry of the shallow-water hydrothermal vents of the Gulf of Naples, Italy. All the sequences used in this study are available through ENA under project accession PRJEB63479 within the umbrella project COEVOLVE, with acession PRJEB55081.
@@ -21,3 +22,4 @@ The repository contains the following files (under the directory *Data*):
 
 Please cite as:
 
+Bernardo Barosa, Carmela Celentano, Flavia Migliaccio, Sara Claudia Diana, Ana Clara Pelliciari Silva, Matteo Selci, Luca Tonietti, Deborah Bastoni, Martina Cascone, Alessia Bastianoni, Monica Correggia, Luciano di Lorio, Roy Price, Stefano Caliro, Marco Milazzo, Alessandro Aiuppa, Costantino Vetriani, Angelina Cordone, Donato Giovannelli. 2025. The microbiology and geochemistry of the shallow-water hydrothermal vents of the Gulf of Naples, Italy. SUbmitted
